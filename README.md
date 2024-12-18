@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hi , I'm Hanine Bouguerra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Life Link mobile app <br>🌱 I’m currently learning React native <br>📫 How to reach me bouguerrahanine4@gmail.com<br>
-
+👋 Hi, I'm Hanine Bouguerra, a passionate **Software Engineering Student** specialized in **Mobile Development** at ESPRIT. <br>
+📱 I enjoy building innovative and user-friendly **mobile applications** and exploring new technologies. <br>
+🚀 Currently working on the **Life Link** app to simplify healthcare communication and monitoring. <br>
+🌱 Learning **React Native** to broaden my expertise in cross-platform development. <br>
+📧 Feel free to reach me at: bouguerrahanine4@gmail.com <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanine-bouguerra-0bb01019a) 

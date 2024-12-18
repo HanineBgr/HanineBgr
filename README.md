@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/od5H3Q7tA5d5W/giphy.gif" width="30px" /> Hi, I'm Hanine Bouguerra! <br>
+
 # 💫 About Me:
 🔭 I’m currently working on Life Link mobile app <br>🌱 I’m currently learning React native <br>📫 How to reach me bouguerrahanine4@gmail.com<br>
 

@@ -41,8 +41,8 @@
 
 ---
 
+### ♻️ Recycle Connect  
 **Smart Recycling & Waste Management App**
-
 **Recycle Connect** is a mobile application that connects users with recycling centers and promotes eco-friendly waste management practices.
 
 **Key Features**

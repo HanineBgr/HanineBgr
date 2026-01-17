@@ -37,7 +37,7 @@
 - Real-time metrics: power, cadence, heart rate  
 - Session summary & performance analysis  
 
-**Tech Stack:** Flutter · Dart · Bluetooth BLE · Node Js 
+**Tech Stack:** React Native · Javascript · Bluetooth BLE · Node Js 
 
 ---
 
@@ -51,7 +51,20 @@
 - User profiles & eco-impact tracking  
 - Clean, intuitive and sustainable UI  
 
-**Tech Stack:** Flutter · Dart · Firebase / REST API 
+**Tech Stack:** Android · ios · Firebase / REST API · Node Js
 
+---
 
+### 💬 Lifelink  
+**Healthcare Communication App**
+
+**Lifelink** is a mobile app that allows patients to communicate securely with their care providers, enabling providers to track their medical case and provide support.
+
+**Key Features**
+- Secure messaging with care providers  
+- Case tracking & updates  
+- Notifications for important events / prescriptions  
+- Patient profile & medical history management  
+
+**Tech Stack:** Flutter · Dart · Strapi 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

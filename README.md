@@ -38,7 +38,19 @@
 - Session summary & performance analysis  
 
 **Tech Stack:** Flutter · Dart · Bluetooth BLE · Node Js 
+---
 
+**Smart Recycling & Waste Management App**>
+
+**Recycle Connect** is a mobile application that connects users with recycling centers and promotes eco-friendly waste management practices.
+
+**Key Features**
+- Waste classification & recycling guidance  
+- Nearby recycling centers with map integration  
+- User profiles & eco-impact tracking  
+- Clean, intuitive and sustainable UI  
+
+**Tech Stack:** Flutter · Dart · Firebase / REST API 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

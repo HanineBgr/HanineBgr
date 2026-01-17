@@ -10,13 +10,35 @@
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HanineBgr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HanineBgr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanineBgr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HanineBgr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Featured Mobile Applications
+
+### 🩺 GluMate  
+**Smart Diabetes Management Application**
+**GluMate** is a cross-platform mobile application designed to help diabetic patients monitor their glucose levels and receive intelligent, personalized health insights.
+**Key Features**
+- Glucose tracking with history & trends  
+- AI-powered personalized recommendations  
+- Secure authentication & encrypted data  
+- Scalable microservices backend  
+
+**Tech Stack:** Flutter · Dart · Spring Boot · FastAPI · MongoDB  
+
+---
+
+### 🚴 Cyclink  
+**Indoor Cycling Training App**
+
+**FastRhino** is an indoor cycling application for athletes using smart trainers, offering structured workouts and real-time performance metrics.
+
+**Key Features**
+- Bluetooth BLE (FTMS protocol)  
+- Structured workouts (Zwift ZWO support)  
+- Real-time metrics: power, cadence, heart rate  
+- Session summary & performance analysis  
+
+**Tech Stack:** Flutter · Dart · Bluetooth BLE · Node Js 
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

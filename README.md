@@ -16,6 +16,7 @@
 ### 🩺 GluMate  
 **Smart Diabetes Management Application**
 **GluMate** is a cross-platform mobile application designed to help diabetic patients monitor their glucose levels and receive intelligent, personalized health insights.
+
 **Key Features**
 - Glucose tracking with history & trends  
 - AI-powered personalized recommendations  
